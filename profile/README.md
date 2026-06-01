@@ -73,6 +73,8 @@ Ideas operate.
 
 We build systems across all three layers.
 
+We believe the future of intelligence will emerge not from a single interface, but from composable systems that help humans think, create, and operate better together.
+
 ---
 
 ## Explore
@@ -106,8 +108,6 @@ We build systems across all three layers.
 Build on top of the ecosystem.
 
 Repositories in this organization power SDKs, APIs, agents, workflows, templates, integrations, infrastructure, and experiments across Wity, Jity, and Nity.
-
-We believe the future of intelligence will emerge not from a single interface, but from composable systems that help humans think, create, and operate better together.
 
 Whether you are building workflows, automating content pipelines, extending agent capabilities, or embedding intelligence into your own systems — this is where the building blocks live.
 
