@@ -24,7 +24,7 @@ For thinkers, innovators, researchers, creators, and teams who think for a livin
 ---
 
 
-<img src="https://uploads.wity.ai/static-uploads/jity-logo-1.png" width="40">
+<img src="https://uploads.wity.ai/static-uploads/jity-logo.png" width="40">
 ### 🕊️ Jity — *Ideas expressed*
 
 For creators, digital product businesses, marketers, and content-led brands.
@@ -38,6 +38,7 @@ For creators, digital product businesses, marketers, and content-led brands.
 
 ---
 
+<img src="https://www.nity.ai/assets/imgs/nity-logo-dark.png" width="40">
 ### 🐙 Nity — *Ideas operating in systems*
 
 For organizations embedding intelligence directly into workflows.
