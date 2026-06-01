@@ -79,20 +79,20 @@ We build systems across all three layers.
 
 ### Wity — Thinking Systems
 
-* Think visually → `wity.ai/v3-test`
-* Build agents → `wity.ai/ai-agents`
-* Browse tools → `wity.ai/tools`
+* [Think visually](https://wity.ai/v3-test)
+* [Build AI agents](https://wity.ai/ai-agents)
+* [Browse tools](https://wity.ai/tools)
 
 ### Jity — Creation Systems
 
-* Brand Creative Studio → `jity.ai/brand-creative-studio`
-* Video Studio → `jity.ai/ai-video-studio`
-* Photo Studio → `jity.ai/ai-photo-studio`
-* Browse tools → `jity.ai/tools`
+* [Brand Creative Studio](https://jity.ai/brand-creative-studio)
+* [Video Studio](https://jity.ai/ai-video-studio)
+* [Photo Studio](https://jity.ai/ai-photo-studio)
+* [Browse tools](https://jity.ai/tools)
 
 ### Nity — Operational Intelligence
 
-* Enterprise workflows → `nity.ai`
+* [Enterprise workflows & infrastructure](https://nity.ai)
 
 
 ---
