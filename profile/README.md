@@ -20,6 +20,9 @@ For thinkers, innovators, researchers, creators, and teams who think for a livin
 * Contextual chat & memory systems
 * Voice notes & idea capture
 
+**Website:** https://www.wity.ai
+**Tools:** https://www.wity.ai/tools/
+
 > Think visually. Go further.
 
 ---
@@ -36,6 +39,9 @@ For creators, digital product businesses, marketers, and content-led brands.
 * Publishing & content operations
 * Digital product creation
 
+**Website:** https://www.jity.ai
+**Tools:** https://www.jity.ai/tools/
+
 > Every brand craves content. Jity drives it, just in time.
 
 ---
@@ -50,6 +56,8 @@ For organizations embedding intelligence directly into workflows.
 * Signal → Decision → Execution pipelines
 * Operational automation
 * Enterprise AI systems
+
+**Website:** https://www.nity.ai
 
 > Put AI within workflows — not just prompts.
 
@@ -69,17 +77,35 @@ We build systems across all three layers.
 
 ## Explore
 
-* **Wity** → https://www.wity.ai
-* **Jity** → https://www.jity.ai
-* **Nity** → https://www.nity.ai
+### Wity — Thinking Systems
+
+* Think visually → `wity.ai/v3-test`
+* Build agents → `wity.ai/ai-agents`
+* Browse tools → `wity.ai/tools`
+
+### Jity — Creation Systems
+
+* Brand Creative Studio → `jity.ai/brand-creative-studio`
+* Video Studio → `jity.ai/ai-video-studio`
+* Photo Studio → `jity.ai/ai-photo-studio`
+* Browse tools → `jity.ai/tools`
+
+### Nity — Operational Intelligence
+
+* Enterprise workflows → `nity.ai`
+
 
 ---
 
-## Open Source
+## Extend
 
-Repositories in this organization power infrastructure, SDKs, agents, workflows, and experiments across the ecosystem.
+Build on top of the ecosystem.
 
-We believe the future of intelligence is not a single interface — but systems that help humans think, create, and operate better together.
+Repositories in this organization power SDKs, APIs, agents, workflows, templates, integrations, infrastructure, and experiments across Wity, Jity, and Nity.
+
+We believe the future of intelligence will emerge not from a single interface, but from composable systems that help humans think, create, and operate better together.
+
+Whether you are building workflows, automating content pipelines, extending agent capabilities, or embedding intelligence into your own systems — this is where the building blocks live.
 
 ---
 
