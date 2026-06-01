@@ -94,7 +94,11 @@ We build systems across all three layers.
 
 * [Enterprise workflows & infrastructure](https://nity.ai)
 
+### Build With Wity
 
+- [NPM Packages](https://www.npmjs.com/~wity.ai)
+- [Swift Packages](https://swiftpackageindex.com/Vritti-ai/)
+  
 ---
 
 ## Extend
