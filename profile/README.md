@@ -10,6 +10,7 @@ Wity AI builds products that help individuals and organizations think better, cr
 
 
 <img src="https://www.wity.ai/assets/imgs/vritti-logo-dark.png" width="40">
+
 ### Wity — *Ideas evolving*
 
 For thinkers, innovators, researchers, creators, and teams who think for a living.
@@ -25,7 +26,8 @@ For thinkers, innovators, researchers, creators, and teams who think for a livin
 
 
 <img src="https://uploads.wity.ai/static-uploads/jity-logo.png" width="40">
-### 🕊️ Jity — *Ideas expressed*
+
+### Jity — *Ideas expressed*
 
 For creators, digital product businesses, marketers, and content-led brands.
 
@@ -39,7 +41,8 @@ For creators, digital product businesses, marketers, and content-led brands.
 ---
 
 <img src="https://www.nity.ai/assets/imgs/nity-logo-dark.png" width="40">
-### 🐙 Nity — *Ideas operating in systems*
+
+### Nity — *Ideas operating in systems*
 
 For organizations embedding intelligence directly into workflows.
 
